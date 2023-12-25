@@ -25,6 +25,10 @@ public class Utilities {
         return a>0;
     }
 
+    public static boolean getOddNumbers (int a) {
+        return a%2 != 0;
+    }
+
 
 
 
