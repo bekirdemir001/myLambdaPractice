@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="16a7171b-8ba0-4936-ac83-bcf5b1e8785f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lambdaPractice/Practice02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambdaPractice/Practice02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lambdaPractice/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambdaPractice/Utilities.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +34,11 @@
   "keyToString": {
     "Application.Exercise01.executor": "Run",
     "Application.Practice02.executor": "Run",
+    "Application.Practice03.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Bekir Demir/IdeaProjects/javacourse"
+    "last_opened_file_path": "C:/Users/Bekir Demir/IdeaProjects/myLambdaPractice"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,7 +46,7 @@
       <recent name="C:\Users\Bekir Demir\IdeaProjects\myLambdaPractice\src\main\java\lambdaPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice02">
+  <component name="RunManager" selected="Application.Practice03">
     <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaPractice.practice01.Exercise01" />
       <module name="myLambdaPractice" />
@@ -74,8 +73,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaPractice.Practice03" />
+      <module name="myLambdaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice03" />
         <item itemvalue="Application.Practice02" />
         <item itemvalue="Application.Exercise01" />
       </list>
